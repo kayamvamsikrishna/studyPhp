@@ -27,7 +27,7 @@ class v{
 
 }
 $vsolutions=new v("Mouni",25);
-//to call pbject method
+//to call object method
 $vsolutions->objMethod();
 //to call class method
 v::clsMethod();
