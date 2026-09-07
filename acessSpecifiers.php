@@ -1,4 +1,4 @@
-Public access specifications:
+Public access specifications: //we can access everywhere 
 class Student {
     public $name = "Vamsi";
 
@@ -11,7 +11,7 @@ $obj = new Student();
 echo $obj->name;   // Allowed
 
 
-protected access specifiers :
+protected access specifiers : //we can access only in child class 
 class Student {
     protected $name = "Vamsi";
 }
@@ -27,7 +27,7 @@ $obj = new College();
 
 
 
-private access specifiers :
+private access specifiers : //we can access only with in the class
 class Student {
     private $name = "Vamsi";
 
