@@ -9,10 +9,10 @@ while ($dummy>0){
     $summ=$summ+$rem;
 }
 
-if ($summ==$a){
+if ($summ%$a==0){
     echo "True";
 }
 else{
-    echo "True";
+    echo "False";
 }
 ?>
