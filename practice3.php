@@ -1,4 +1,5 @@
 <?php
+//perfectNumber
 $a = 6;
 $summ = 0;
 
