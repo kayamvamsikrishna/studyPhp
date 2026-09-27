@@ -1,5 +1,5 @@
 <?php
-$prime = (int)readline("Enter: ");
+$prime = 2;
 //$prime = (float)readline("Enter: ");
 $kvk = true;
 
