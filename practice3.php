@@ -9,7 +9,7 @@ for ($i = 1; $i <= $a / 2; $i++) {
     }
 }
 
-if ($summ == $a) {
+if ($a== $summ) {
     echo "True";
 } else {
     echo "False";
